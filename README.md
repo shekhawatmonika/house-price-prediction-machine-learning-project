@@ -1,6 +1,5 @@
-🏠 **Jaipur House Price Estimator – Live Project**
-
-Live Demo: https://house-price-prediction-machine-learning-project.streamlit.app
+🏠 Jaipur House Price Estimator - Live Project
+🔗 Live Demo: https://house-price-prediction-machine-learning-project.streamlit.app
 
 📍Problem Statement
 
@@ -33,6 +32,7 @@ Streamlit Cloud
 
 The original dealer/property data was covered under a Non-Disclosure Agreement (NDA). Therefore, I created a privacy-safe dummy dataset designed to represent realistic Jaipur market patterns.
 
+📊 Accuracy: R2 Score 87% | Tech: Python, Pandas, Scikit-learn, Streamlit
 This project should therefore be considered a prototype for demonstrating machine learning and application development, rather than an official real-estate valuation tool.
 
 🚀 How to Run Locally
